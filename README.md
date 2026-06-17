@@ -59,7 +59,6 @@ A diferencia de una base de datos relacional tradicional, Milvus permite realiza
 ### Otros archivos
 
 * **README.md** – Documentación del proyecto.
-* **.gitignore** – Archivos excluidos del repositorio.
 
 ---
 
